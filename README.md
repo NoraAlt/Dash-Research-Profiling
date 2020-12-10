@@ -75,3 +75,9 @@ Similarities between two departments/centers were measured based on a comparison
 - normalization.py : for data preprocessing.
 - Similarity.py : to compute the cosine similarity between two texts vectors.
 - utils.py : to plot a heat-map of the similarity scores to visually assess which two departments/centres are most similar and most dissimilar to each other
+
+## Authors
+- **Atheer Algherairy**: [link](https://github.com/AtheerAlgherairy)
+- **Nora Alturayeif**: [link](https://github.com/NoraAlt)
+- **Sarah Alyami**: [link](https://github.com/Wadha-Almattar)
+- **Wadha Almatar**: [link](https://github.com/snalyami)
