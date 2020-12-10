@@ -1,8 +1,9 @@
 
 
 ## About this Project
+The general objective of this study is to perform exploratory analysis on a scholarly dataset from KFUPM, to create a research profile for each departments/centre. The research profile describes several information such as, the  subjects addressed by researchers, the impact of the publications, the degree of funding received and most importantly, how do these departments/centers compare in regards to their research activity. The KFUPM department/center research profile, will evidently reflect the University's overall research profile and will allow decision makers determine where KFUPM stands in comparison to other universities in terms of research activity.
 
-A tidy example of how plotly's excellent dash framework can be used for Natural Language Processing (NLP)
+The Dash framework released by plotly is used to visualize the results of our scholarly analysisk, which show how plotly's excellent dash framework can be used for Natural Language Processing (NLP).
 
 ## How to run this app
 
