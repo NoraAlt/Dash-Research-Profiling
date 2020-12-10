@@ -53,13 +53,19 @@ department:
 
 Note: All graphs and charts related to a selected department changed according to the selected subset of dataset and time windows.
 
+
+---------------------------
+
+
+For Preprocessing and information extraction:
 ```
 Preprocessing/departments.py
 Preprocessing/Funding.py
 Preprocessing/PublicationText_per_Dep.py
 ```
-For Preprocessing and information extraction.
 
+---------------------------
+Departments Similarity:
 ```
 Similarity/normalization.py
 Similarity/Similarity.py
