@@ -79,5 +79,5 @@ Similarities between two departments/centers were measured based on a comparison
 ## Authors
 - **Atheer Algherairy**: [link](https://github.com/AtheerAlgherairy)
 - **Nora Alturayeif**: [link](https://github.com/NoraAlt)
-- **Sarah Alyami**: [link](https://github.com/Wadha-Almattar)
-- **Wadha Almatar**: [link](https://github.com/snalyami)
+- **Sarah Alyami**: [link](https://github.com/snalyami)
+- **Wadha Almatar**: [link](https://github.com/Wadha-Almattar)
